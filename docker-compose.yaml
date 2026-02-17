@@ -1,0 +1,6 @@
+name: minipaint
+services:
+    minipaint:
+        ports:
+            - 8080:80
+        image: registry.ancha.dev/minipaint
